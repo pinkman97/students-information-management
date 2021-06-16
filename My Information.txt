@@ -1,0 +1,6 @@
+Name           : Mahadi Al Hassan
+Roll           : 1610056
+Department     : Department of Electrical & Computer Engineering
+Semester       : 1st
+Year           : 1st
+Project Title  : Students' Information Management System
